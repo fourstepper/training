@@ -31,7 +31,7 @@
 - **Frequency:** 3-4 sessions per week
 - **Duration:** 30-40 minutes per session
 - **Temperature:** 80-90°C (sauna)
-- **Timing:** Post-exercise (immediately after training)
+- **Timing:** Post-exercise timing is optimal but not required (see Timing Considerations below)
 - **Minimum:** 6-7 exposures to induce initial adaptation
 
 **Key Study Result:** 12 sauna sessions at 90°C for 30 minutes post-exercise over 21 days resulted in a **32% improvement** in running time to exhaustion.
@@ -91,18 +91,36 @@ These adaptations improve performance in **both hot AND temperate conditions** -
 - Better to do 2x per week consistently than aim for 4x and burn out
 
 ### Timing Considerations
-- **Post-exercise timing appears optimal:** Synergistic stress response
-- Complete your regular training first
-- Enter sauna for 30-40 minutes
-- Ensure proper hydration before and after
+
+**Post-exercise timing (optimal):**
+- Produces superior adaptations due to synergistic stress response
+- Most research protocols used immediate post-exercise timing
+- Complete your regular training first, then enter sauna for 30-40 minutes
+
+**Standalone sessions (still effective):**
+- Can successfully induce heat adaptations and improve performance
+- Studies show passive heating alone produces plasma volume expansion and cardiovascular benefits
+- Benefits may be 10-20% less pronounced than post-exercise timing
+- Better to do standalone sessions consistently than miss post-exercise timing frequently
+
+**Bottom line on timing:** Post-exercise is optimal but not required. Consistency matters more than perfect timing. Choose the approach that fits your schedule and allows for regular sessions.
 
 ---
 
 ## Protocol Details
 
 ### Session Structure
+
+**Post-exercise protocol (optimal):**
 1. Complete regular training session
 2. Brief cool-down (5-10 minutes)
+3. Enter sauna at 80-90°C
+4. Stay for 30-40 minutes
+5. Rehydrate immediately after
+
+**Standalone protocol (effective alternative):**
+1. Choose a time when you're well-rested (not immediately pre-workout)
+2. Ensure good hydration beforehand
 3. Enter sauna at 80-90°C
 4. Stay for 30-40 minutes
 5. Rehydrate immediately after
@@ -134,7 +152,7 @@ These adaptations improve performance in **both hot AND temperate conditions** -
 - Then maintain with 2x per week long-term
 - Consistency is more important than perfection
 - Benefits apply to all conditions, not just hot weather racing
-- Post-exercise timing appears to be optimal
+- **Timing flexibility:** Post-exercise is optimal but standalone sessions are still effective - choose what fits your schedule
 
 **Expected timeline for adaptations:**
 - Plasma volume increases: 7-14 days
