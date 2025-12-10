@@ -2,7 +2,13 @@
   "permissions": {
     "allow": [
       "mcp__intervals-icu__*",
-      "WebSearch"
+      "WebSearch",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nUpdate heat training protocol with timing flexibility\n\nClarify that post-exercise timing is optimal but not required for heat\nacclimation benefits. Add standalone protocol option and emphasize that\nconsistency matters more than perfect timing.\n\nKey changes:\n- Expanded timing considerations section with both post-exercise and standalone options\n- Added standalone session protocol details\n- Clarified that passive heating alone can induce adaptations\n- Emphasized scheduling flexibility over rigid timing requirements\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git push:*)",
+      "WebFetch(domain:pubmed.ncbi.nlm.nih.gov)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nAdd interval protocol guidance and cooling strategies\n\nAdd comprehensive section on interval vs continuous sauna protocols based on\nrecent research. Clarifies that while continuous exposure is optimal, interval\nprotocols can work with proper (passive) cooling strategy.\n\nKey additions:\n- Interval protocol structure: 3x10-15min with passive rest\n- Explains why aggressive cooling reduces effectiveness (core temp <38.5°C)\n- Distinguishes between heat acclimation protocols and traditional Finnish practice\n- Beginner progression path from intervals to continuous exposure\n- Two new research references on interval protocols\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git commit:*)"
     ]
   }
 }
