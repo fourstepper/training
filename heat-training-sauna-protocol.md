@@ -125,6 +125,32 @@ These adaptations improve performance in **both hot AND temperate conditions** -
 4. Stay for 30-40 minutes
 5. Rehydrate immediately after
 
+### Interval vs Continuous Protocols
+
+**Continuous exposure (30-40 minutes) is optimal** for heat acclimation, but interval protocols can work if tolerability is an issue.
+
+**Interval protocol that works:**
+- **Structure:** 3 sets × 10-15 minutes at 80-100°C
+- **Rest between sets:** 5-10 minutes of passive recovery
+- **Key:** Passive cooling only (sit at room temperature, hydrate) - NO cold showers or active cooling
+- **Why it works:** Maintains elevated core temperature throughout session
+
+**What reduces effectiveness:**
+- Cold showers or cold water immersion between bouts
+- Research shows cooling interruptions prevent core temperature from staying >38.5°C
+- This reduces thermoregulatory adaptations (though cardiovascular benefits remain)
+
+**Traditional Finnish sauna practice:**
+- 2-3 rounds of 5-20 minutes with cold plunges/showers between
+- Great for general wellness and contrast therapy
+- **Less optimal for heat acclimation** due to aggressive cooling between rounds
+
+**Recommendation for beginners:**
+- Start with 3 × 10 minutes with 5-minute passive rest periods
+- Just sit outside sauna, breathe, hydrate - don't actively cool down
+- Build up to continuous 30-40 minutes as tolerance improves
+- Save cold showers/plunges for after the complete session
+
 ### Safety Considerations
 - Stay well-hydrated before, during (if possible), and after
 - Start conservatively (20-25 minutes) and build up
@@ -141,6 +167,8 @@ These adaptations improve performance in **both hot AND temperate conditions** -
 3. [Weekly and bi-weekly heat training efficacy](https://www.sciencedirect.com/science/article/abs/pii/S1440244021004588)
 4. [Post-Exercise Heat Exposure Effects](https://link.springer.com/article/10.1186/s40798-025-00910-0)
 5. [Intermittent post-exercise sauna bathing study](https://link.springer.com/article/10.1007/s00421-020-04541-z)
+6. [Heart Rate and Body Temperature Evolution in Interval Passive Heat Acclimation](https://pmc.ncbi.nlm.nih.gov/articles/PMC9916041/)
+7. [Medium-Term Sauna-Based Heat Acclimation with Cooling Interruptions](https://pmc.ncbi.nlm.nih.gov/articles/PMC8297353/)
 
 ---
 
